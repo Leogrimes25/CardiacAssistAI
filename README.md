@@ -31,3 +31,5 @@
 <img width="1184" height="784" alt="Image" src="https://github.com/user-attachments/assets/9b3028bf-655c-4fae-a19c-52bdb3dc5134" />
 <p>Nota-se que as variáveis Oldpeak, cp, thalac e exang são as que tem maior correlação positiva ou negativa com a variável alvo.</p>
 <h2>COMPARATIVO DOS MODELOS</h2>
+<p>Foi realizado um experimento comparativo entre os modelos: Naive Bayes, KNN, Regressão, AdaBoost e XGBoost</p>
+<img width="1184" height="784" alt="Image" src="https://github.com/user-attachments/assets/dbdf5318-74ce-4f12-befc-1b5ff29446a5" />
