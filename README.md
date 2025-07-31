@@ -24,3 +24,7 @@
         <li><strong><code>0</code></strong>: Indica a ausência de doença cardíaca.</li>
         <li><strong><code>1</code></strong>: Indica a presença de doença cardíaca.</li>
     </ul>
+<h2>Justificativa do Trabalho: Diagnóstico de Doenças Cardíacas com Machine Learning</h2>
+<p>Este projeto propõe uma abordagem inovadora e complementar, utilizando algoritmos de Machine Learning para apoiar a equipe de saúde no diagnóstico. É importante frisar que esta ferramente é deve ser encarada como instrumento de apoio no diagnóstico e não devendo ser utilizada como ferramenta decisória autônoma. </p>
+<h2>Correlação das Variáveis</h2>
+<p>Para fins de comparação e compreensão da correlação de variáveis, os testes abaixo foram realizados.</p>
