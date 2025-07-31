@@ -1,1 +1,26 @@
-# CardiacAssistAI
+<h1>Cardiac Arrest Dataset</h1>
+<p>Este repositório utiliza a base de dados "Cardiac Arrest Dataset", disponível no Kaggle, para prever a presença de doenças cardíacas. </p>
+<a href="https://www.kaggle.com/datasets/iamtanmayshukla/cardiac-arrest-dataset"> Link para a base</a>
+<h1>Atributos</h1>
+<p>Os atributos contidos na base de dados incluem uma variedade de informações médicas e demográficas dos pacientes:</p>
+<ul>
+        <li><strong><code>age</code></strong>: Idade do paciente.</li>
+        <li><strong><code>sex</code></strong>: Gênero do paciente.</li>
+        <li><strong><code>cp</code></strong>: Tipo de dor no peito.</li>
+        <li><strong><code>trestbps</code></strong>: Pressão arterial em repouso.</li>
+        <li><strong><code>chol</code></strong>: Nível de colesterol sérico.</li>
+        <li><strong><code>fbs</code></strong>: Nível de açúcar no sangue em jejum.</li>
+        <li><strong><code>restecg</code></strong>: Resultados do eletrocardiograma em repouso.</li>
+        <li><strong><code>thalach</code></strong>: Frequência cardíaca máxima atingida.</li>
+        <li><strong><code>exang</code></strong>: Angina induzida por exercício.</li>
+        <li><strong><code>oldpeak</code></strong>: Depressão do segmento ST induzida por exercício em relação ao repouso.</li>
+        <li><strong><code>slope</code></strong>: A inclinação do pico do segmento ST no exercício.</li>
+        <li><strong><code>ca</code></strong>: Número de vasos sanguíneos principais coloridos por fluoroscopia (0-3).</li>
+        <li><strong><code>thal</code></strong>: Resultado do teste de estresse talássico.</li>
+    </ul>
+<h2>Variável Alvo (<code>target</code>)</h2>
+<p>A variável alvo, denominada "target", é a variável que se busca prever. Ela é um valor binário (0 ou 1):</p>
+<ul>
+        <li><strong><code>0</code></strong>: Indica a ausência de doença cardíaca.</li>
+        <li><strong><code>1</code></strong>: Indica a presença de doença cardíaca.</li>
+    </ul>
