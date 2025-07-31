@@ -28,3 +28,6 @@
 <p>Este projeto propõe uma abordagem inovadora e complementar, utilizando algoritmos de Machine Learning para apoiar a equipe de saúde no diagnóstico. É importante frisar que esta ferramente é deve ser encarada como instrumento de apoio no diagnóstico e não devendo ser utilizada como ferramenta decisória autônoma. </p>
 <h2>Correlação das Variáveis</h2>
 <p>Para fins de comparação e compreensão da correlação de variáveis, os testes abaixo foram realizados.</p>
+<img width="1184" height="784" alt="Image" src="https://github.com/user-attachments/assets/9b3028bf-655c-4fae-a19c-52bdb3dc5134" />
+<p>Nota-se que as variáveis Oldpeak, cp, thalac e exang são as que tem maior correlação positiva ou negativa com a variável alvo.</p>
+<h2>COMPARATIVO DOS MODELOS</h2>
